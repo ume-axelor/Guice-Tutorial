@@ -12,3 +12,4 @@ public class Main {
         spellCheckRequest.requestSpellCheck("Hello");
     }
 }
+
