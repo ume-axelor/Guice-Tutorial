@@ -4,7 +4,7 @@ plugins {
 }
 
 application {
-    mainClassName = 'com.app.MainApp' 
+    mainClassName = 'com.training.main.Main' 
 }
 
 repositories {
